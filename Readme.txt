@@ -52,6 +52,15 @@ Matlab code for Numerical Methods - Fixed Point Iterative Method, Mullers Method
          maxiter = maximum number of iterations
    Output
    y = value after each iteration
-         
-         
+
+5. Reyleigh's Power Method
+   Function
+   reyleigh(A,x,maxiter)
+   Inputs
+   where A = input matrix 
+         x = first value in matrix format
+         maxiter = number of iterations
+   Outputs
+   L = dominant eignenvalues
+   X = eigen vectors         
          
